@@ -1,4 +1,4 @@
 # Amazon-Clone
-This is my second Git repository.
+This is my third Git repository.
 <br>
 Author-Bhakti Daulatrao Ghatage
